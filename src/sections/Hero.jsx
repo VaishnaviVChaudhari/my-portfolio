@@ -49,7 +49,7 @@ const Hero = () => {
             <button className="px-6 py-2 dark:bg-blue-800 dark:text-white rounded dark:hover:bg-blue-600 transition">CONTACT ME</button>
           </a>
           <a
-            href="/Resume/VAISHNAVI_CHAUDHARI_UPDATED.pdf"
+            href="/Resume/Vaishnavi Chaudhari Resume.pdf"
             download="Vaishnavi_Chaudhari_Resume.pdf"
             className="px-6 py-2 dark:bg-blue-800 dark:text-white rounded dark:hover:bg-blue-900 transition inline-block"
           >
